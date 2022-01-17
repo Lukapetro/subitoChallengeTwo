@@ -1,0 +1,19 @@
+{
+  "name": "subitoChallenge2",
+  "version": "1.0.0",
+  "description": "Created as a challenge for subito.it",
+  "main": "index.js",
+  "repository": "https://github.com/Lukapetro/subitoChallengeTwo",
+  "author": "Lukapetro <lucapetro93@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "./node_modules/mocha/bin/mocha test/*.test.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "mocha": "^9.1.4"
+  }
+}
